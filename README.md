@@ -1,5 +1,5 @@
 # biografia
-<!doctype html>
+
 <html >
 <body>
 
