@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<input type="submit" name="button" value="DAVID" style="color: #002938332320; background-color: #FF9900">
+<input type="submit" name="button" value="DAVID" style="color: #002938332320;>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -27,7 +27,7 @@
 	 <div style="color:white;" class="col-sm-12"><h2>INTRODCCION AL SOFTWARE</h2></div>
 	<center>
 	
-	<image src="image.png" style=" width:300px; height:300px;"background="fondo.gif">
+	<image src="image.png" style=" width:300px; height:300px;>
 	
 	</center>
 	<audio src="audio.mp3" preload="none" controls></audio>
